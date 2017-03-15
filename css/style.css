@@ -1,0 +1,113 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    position: absolute;
+    height: 100%;
+    min-width: 100%;
+    font-size: 16px;
+    line-height: 1.5;
+    outline: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+/*
+.content {
+  margin: 0 auto;
+  width: 100%;
+  text-align: center;
+}
+*/
+
+.main-logo {
+    margin: 0;
+    position: fixed;
+}
+.main-logo img {
+    display: block;
+    width: 50%;
+    position: relative;
+    top: 27px;
+    border: 3px solid rgba(255, 255, 255, 0.2);
+    border-radius: 120px 52px;
+}
+
+div.titulo {
+
+}
+
+div.titulo button {
+    box-shadow: 0px 10px 33px #000;
+    position: absolute;
+    margin: -125px 90px;
+}
+
+div.titulo h1 {
+    color: #fff !important;
+    border-top: 1px solid #ffffff !important;
+    padding-top: 6px !important;
+    text-shadow: 0px 2px 11px #000 !important;
+    position: absolute;
+    margin: -64px 0px;
+    font-size: 2em;
+}
+
+.main-bg1 {
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-size: cover;
+}
+
+.main-bg2 {
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-size: cover;
+}
+
+.main-bg3 {
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-size: cover;
+}
+
+.main-bg4 {
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-size: cover;
+}
+
+.main-bg5 {
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-size: cover;
+}
+
+.main-bg6 {
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-size: cover;
+}
+
+.main-bg7 {
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-size: cover;
+}
